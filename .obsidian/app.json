@@ -1,0 +1,21 @@
+{
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments/inbox",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "inbox",
+  "showUnsupportedFiles": true,
+  "showIndentGuide": false,
+  "spellcheck": false,
+  "userIgnoreFilters": [
+    "journal/",
+    "bins/"
+  ],
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

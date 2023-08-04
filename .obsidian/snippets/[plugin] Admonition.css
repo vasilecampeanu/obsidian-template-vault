@@ -1,0 +1,9 @@
+/* 
+    Admonition
+*/
+
+.callout-content.admonition-content table
+{
+    width: 100% !important;
+    margin: 0px !important;
+}

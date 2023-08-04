@@ -1,0 +1,5 @@
+{
+  "folder": "journal/daily",
+  "autorun": true,
+  "template": "bins/templates/dailynote"
+}

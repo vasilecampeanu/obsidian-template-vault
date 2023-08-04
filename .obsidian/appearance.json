@@ -1,0 +1,9 @@
+{
+  "accentColor": "",
+  "baseFontSize": 16,
+  "nativeMenus": false,
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "[plugin] Admonition"
+  ]
+}
