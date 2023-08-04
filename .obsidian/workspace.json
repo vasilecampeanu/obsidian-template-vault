@@ -4,24 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "ad40d4afa9a617fe",
+        "id": "c1d8dd60c2b821de",
         "type": "tabs",
         "children": [
           {
-            "id": "5ab330c482779eb8",
+            "id": "384158275733e001",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "COMPASS.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -140,8 +139,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "54bc765c6b642a20",
@@ -195,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,9 +210,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true
     }
   },
-  "active": "eb6302b094167242",
+  "active": "ce1940aeb066f23a",
   "lastOpenFiles": [
+    "inbox/Untitled.canvas",
+    "COMPASS.md",
+    "attachments",
+    "inbox/202308041412.md",
+    "journal/daily/2023-08-04.md",
+    "inbox/Untitled.md",
     "README.md",
+    "your_name/Untitled.md",
+    "your_name/Untitled",
+    "vintage-4261532_1920.png",
     "LICENSE",
     "obsidian-template-vault/README.md",
     "obsidian-template-vault/LICENSE",
@@ -223,8 +231,6 @@
     "your_name/workspace",
     "your_name/thoughts",
     "your_name/people/relationships",
-    "your_name/charisma",
-    "your_name",
     "bins/templates/dailynote.md",
     "attachments/history/ouroboros-the-black-book-circle-lettering-watercolour.jpg.webp",
     "attachments/inbox/arcane-limbus-tarot-deck.png",
@@ -241,16 +247,10 @@
     "inbox/Death.md",
     "inbox/Cancer is an organism that plays the short game.md",
     "inbox/You become better at problem solving if you accumulate more knoledge.md",
-    "journal/daily/2023-08-04.md",
     "raindrop/The Beginning After The End.md",
     "raindrop/Read Light Novel.md",
     "raindrop/Lord Of Mysteries.md",
     "raindrop/Light Novel World.md",
-    "soluspedia/compute/Information.md",
-    "soluspedia/physics/Travelling Through Time.md",
-    "soluspedia/technology/software/Obsidian.md",
-    "soluspedia/technology/The Weight of the Internet.md",
-    "umami/We are Marinated in Progressive Ideology.md",
     "attachments/inbox/vintage-4261532_1920.png",
     "attachments/inbox/klein-moretti.webp"
   ]

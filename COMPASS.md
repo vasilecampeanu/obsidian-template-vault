@@ -18,14 +18,14 @@ publish:
 |:-------------- |:---------------------------- |
 | #physics       |Fundamental Operating System|
 | #mathematics   |The Abstract Framework|
-| #biology       |Human Hardware|
+| #biology       |Human Hardware |
 | #health        |Human Hardware Optimization|
-| #technology    |Human Hardware Extensions|
+| #technology    |Human Hardware Extensions |
 | #compute       | Silicon Cognition            |
-| #ai            |Human Software 2.0|
-| #psychology    |Human Software 1.0|
+| #ai            | Human Software 2.0           |
+| #psychology    | Human Software 1.0           |
 | #rationality   |Cognitive Toolkit|
-| #philosophy    |Metacognitive Framework|
-| #ethics        |Behaviour Boundaries|
+| #philosophy    | Metacognitive Framework      |
+| #ethics        | Behaviour Boundaries         |
 | #history       | Temporal Context Database    |
 | #transhumanism | Beyond Monkey                |
